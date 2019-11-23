@@ -2,10 +2,14 @@
 This project, including the README file was created on the 23 November 2019.
 
 ### Project Title
-Replace the Project Title
+Bikeshare database analysis using python(numpy and pandas).
 
 ### Description
-Describe what your project is about and what it does
+This project includes a python script file (bikeshare.py) that provides useful statistical information through a terminal and a data extracted from bikeshare data of New York City, Washington D.C. and Chicago presented in a csv file.  
+
+The python code retrieves some data like:
+- Most frequent times of travel sorted by day and month
+- Most popular stations and trips
 
 ### Files used
 Include the files used
