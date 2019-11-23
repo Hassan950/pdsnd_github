@@ -15,6 +15,9 @@ The python code retrieves some data like:
 - bikeshare.py
 - README.md
 - .gitignore
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
 - https://github.com/udacity/pdsnd_github
